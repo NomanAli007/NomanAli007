@@ -34,7 +34,7 @@
     </td>
 
     <!-- RIGHT COLUMN -->
-    <td width="40%" align="center">
+    <td width="70%" align="center">
 
 <img
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
@@ -42,7 +42,7 @@
   alt="Developer GIF"
 />
 
-    </td>
+  
   </tr>
 </table>
 
