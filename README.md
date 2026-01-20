@@ -8,35 +8,36 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJha3IydW84Y2g4MWJtdWpqNGt1NDFpbDRzNzN3cTN4ZjNneXl6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer GIF" />
 </p>
----
 
 ---
 
 ### 👨‍💻 Talking about my personal stuff:
 
-🐾 **Leading Flutter Islamabad**  
-🐾 **Maintainer of dart package** [awesome_snackbar_content](https://pub.dev/packages/awesome_snackbar_content)  
-🐾 **Technical writer at** [Medium](https://medium.com/@mhmzdev)  
-📱 **First Live app on Play Store:** [Holy Qur'an App](https://play.google.com/store/apps/details?id=com.mhmzdev.holy_quran_app)  
-📱 **Former Google DSC Lead COMSATS Islamabad**  
-📱 **F1** - Loves to watch cars go vhroom! vhroom!  
-📱 **Mobile photography**  
-📱 **Books!!**  
-🐾 **"Ah! There was a sport!"**
+<ul dir="auto">
+<li>👉 Leading <a href="http://facebook.com/FlutterIslamabadPakistan" rel="nofollow">Flutter Islamabad</a></li>
+<li>📦 Maintainer of dart package <a href="https://pub.dev/packages/awesome_snackbar_content" rel="nofollow">awesome_snackbar_content</a></li>
+<li>✍ Technical writer at <a href="https://mhmzdev.medium.com/" rel="nofollow">Medium</a></li>
+<li>📱 First Live app on Play Store <a href="https://github.com/mhmzdev/The_Holy_Quran_App">Holy Qur'an App</a></li>
+<li>🙋‍♂️ Former Google DSC Lead <a href="https://gdg.community.dev/gdg-on-campus-comsats-university-islamabad-pakistan/" rel="nofollow">COMSATS Islamabad</a></li>
+<li>🏎️ F1 - Loves to watch cars go vhroom! vhroom!</li>
+<li>📸 Mobile photography</li>
+<li>📚 Books!!</li>
+<li>⚽️ "Ah! There was a sport!"</li>
+<li>👀 Wanna see, what I do? <a href="https://mhmz.dev" rel="nofollow">Portfolio</a></li>
+<li>📜 Take a look at my <a href="https://mhmz.dev/resume" rel="nofollow">Resume</a></li>
+</ul>
 
 ---
 
-### 🚀 Projects & Portfolio
+### ✍ Medium Blog Posts
 
-👀 **Wanna see what I do?** [Portfolio](https://mhmzdev.github.io)  
-📜 **Take a look at my** [Resume/CV](https://mhmzdev.github.io/resume)  
-✍ **Medium Blog Posts:**
-
-- 📄 [The Art of Managing Single Code Base — Flutter | Part #02](https://medium.com/@mhmzdev/the-art-of-managing-single-code-base-flutter-part-02-abc123)
-- 📄 [The Art of Managing Single Code Base — Flutter | Part #01](https://medium.com/@mhmzdev/the-art-of-managing-single-code-base-flutter-part-01-xyz456)
-- 📄 [Flutter Web: The good, the bad and the ugly](https://medium.com/@mhmzdev/flutter-web-the-good-the-bad-and-the-ugly-789def)
-- 📄 [Darttern Matching: When if-else Got a Glow-Up ✨](https://medium.com/@mhmzdev/darttern-matching-when-if-else-got-a-glow-up-456ghi)
-- 📄 [DraftWing: An agentic app under 48 hours!](https://medium.com/@mhmzdev/draftwing-an-agentic-app-under-48-hours-123jkl)
+<ul dir="auto">
+<li>📄 <a href="https://medium.com/@mhmzdev/the-art-of-managing-single-code-base-flutter-part-02" rel="nofollow">The Art of Managing Single Code Base — Flutter | Part #02</a></li>
+<li>📄 <a href="https://medium.com/@mhmzdev/the-art-of-managing-single-code-base-flutter-part-01" rel="nofollow">The Art of Managing Single Code Base — Flutter | Part #01</a></li>
+<li>📄 <a href="https://medium.com/@mhmzdev/flutter-web-the-good-the-bad-and-the-ugly" rel="nofollow">Flutter Web: The good, the bad and the ugly</a></li>
+<li>📄 <a href="https://medium.com/@mhmzdev/darttern-matching-when-if-else-got-a-glow-up" rel="nofollow">Darttern Matching: When if-else Got a Glow-Up ✨</a></li>
+<li>📄 <a href="https://medium.com/@mhmzdev/draftwing-an-agentic-app-under-48-hours" rel="nofollow">DraftWing: An agentic app under 48 hours!</a></li>
+</ul>
 
 ---
 
@@ -89,19 +90,19 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/mhmzdev" target="_blank">
+  <a href="https://linkedin.com/in/mhmzdev" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/mhmzdev" target="_blank">
+  <a href="https://twitter.com/mhmzdev" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://medium.com/@mhmzdev" target="_blank">
+  <a href="https://medium.com/@mhmzdev" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-email@example.com" rel="nofollow">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://pub.dev/publishers/mhmzdev.dev/packages" target="_blank">
+  <a href="https://pub.dev/publishers/mhmzdev.dev/packages" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/Pub.Dev-02569B?style=for-the-badge&logo=dart&logoColor=white" alt="Pub.dev" />
   </a>
 </p>
