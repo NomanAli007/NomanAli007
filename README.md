@@ -10,17 +10,19 @@
 </p>
 ---
 
-### 👨‍💻 About Me
+---
 
-👉 **Leading** Flutter Islamabad  
-📦 **Maintainer** of Dart package [awesome_snackbar_content](https://pub.dev/packages/awesome_snackbar_content)  
-✍ **Technical writer** at [Medium](https://medium.com/@mhmzdev)  
-📱 **First Live App** on Play Store: [Holy Qur'an App](https://play.google.com/store/apps/details?id=com.mhmzdev.holy_quran_app)  
-🙋‍♂️ **Former Google DSC Lead** COMSATS Islamabad  
-🏎️ **F1** - Loves to watch cars go vhroom! vhroom!  
-📸 **Mobile photography** enthusiast  
-📚 **Avid reader**  
-⚽️ "Ah! There was a sport!"  
+### 👨‍💻 Talking about my personal stuff:
+
+🐾 **Leading Flutter Islamabad**  
+🐾 **Maintainer of dart package** [awesome_snackbar_content](https://pub.dev/packages/awesome_snackbar_content)  
+🐾 **Technical writer at** [Medium](https://medium.com/@mhmzdev)  
+📱 **First Live app on Play Store:** [Holy Qur'an App](https://play.google.com/store/apps/details?id=com.mhmzdev.holy_quran_app)  
+📱 **Former Google DSC Lead COMSATS Islamabad**  
+📱 **F1** - Loves to watch cars go vhroom! vhroom!  
+📱 **Mobile photography**  
+📱 **Books!!**  
+🐾 **"Ah! There was a sport!"**
 
 ---
 
