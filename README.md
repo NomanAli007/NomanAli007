@@ -10,48 +10,41 @@
 
 ---
 
-### 👨‍💻 Talking about my personal stuff:
+<h2>👨‍💻 Talking about my personal stuff:</h2>
 
 <br />
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <!-- LEFT -->
-    <td width="55%" valign="top">
+    <!-- LEFT COLUMN -->
+    <td width="40%" valign="top">
 
-- 👉 Leading [Flutter Islamabad](http://facebook.com/FlutterIslamabadPakistan)
-- 📦 Maintainer of dart package [awesome_snackbar_content](https://pub.dev/packages/awesome_snackbar_content)
-- ✍️ Technical writer at [Medium](https://mhmzdev.medium.com/)
-- 📱 First Live app on Play Store: [Holy Qur'an App](https://github.com/mhmzdev/The_Holy_Quran_App)
-- 🎓 Former Google DSC Lead: [COMSATS Islamabad](https://gdg.community.dev/gdg-on-campus-comsats-university-islamabad-pakistan/)
-- 🏎️ F1 – Loves to watch cars go **vhroom! vhroom!**
-- 📸 Mobile photography
-- 📚 Books!!
-- 🌍 "Ah! There was a sport!"
-- 👀 Wanna see what I do? [Portfolio](https://mhmz.dev)
-- 📄 Take a look at my [Resume](https://mhmz.dev/resume)
-
-    </td>
-
-    <!-- RIGHT -->
-    <td width="45%" align="right" valign="middle">
-
-<img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg"
-  width="0"
-  height="0"
-/>
-
-<img
-  src="https://user-images.githubusercontent.com/74038190/212259363-3d9b2c28-8f6a-4f30-a5de-0e8b9d6b6c7a.png"
-  width="420"
-  alt="Developer Illustration"
-/>
+- Leading [Flutter Islamabad](http://facebook.com/FlutterIslamabadPakistan)
+- Maintainer of Dart package [awesome_snackbar_content](https://pub.dev/packages/awesome_snackbar_content)
+- Technical writer at [Medium](https://mhmzdev.medium.com/)
+- First Live app on Play Store: [Holy Qur'an App](https://github.com/mhmzdev/The_Holy_Quran_App)
+- Former Google DSC Lead: [COMSATS Islamabad](https://gdg.community.dev/gdg-on-campus-comsats-university-islamabad-pakistan/)
+- F1 – Loves to watch cars go **vhroom! vhroom!**
+- Mobile photography 📱
+- Books!! 📚
+- _"Ah! There was a sport!"_
+- Portfolio 👉 [mhmz.dev](https://mhmz.dev)
+- Resume 👉 [View here](https://mhmz.dev/resume)
 
     </td>
+
+    <!-- RIGHT COLUMN -->
+    <td width="60%" align="center" valign="middle">
+
+<img
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="480"
+  alt="Developer GIF"
+/>
+
+
   </tr>
 </table>
-
 
 ---
 
