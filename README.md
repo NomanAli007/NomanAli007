@@ -17,7 +17,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <!-- LEFT COLUMN -->
-    <td width="40%" valign="top">
+    <td width="55%" valign="top">
 
 - Leading [Flutter Islamabad](http://facebook.com/FlutterIslamabadPakistan)
 - Maintainer of Dart package [awesome_snackbar_content](https://pub.dev/packages/awesome_snackbar_content)
@@ -34,7 +34,7 @@
     </td>
 
     <!-- RIGHT COLUMN -->
-    <td width="60%" align="center" valign="middle">
+    <td width="45%" align="center" valign="middle">
 
 <img
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
