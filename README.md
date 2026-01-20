@@ -10,34 +10,38 @@
 
 ---
 
-## 👨‍💻 Talking about my personal stuff:
+<h2>👨‍💻 Talking about my personal stuff:</h2>
 
-<table width="100%" cellpadding="0" cellspacing="0">
+<br />
+
+<table>
   <tr>
     <!-- LEFT COLUMN -->
     <td width="60%" valign="top">
-      <ul>
-        <li>Leading <a href="http://facebook.com/FlutterIslamabadPakistan">Flutter Islamabad</a></li>
-        <li>Maintainer of Dart package <a href="https://pub.dev/packages/awesome_snackbar_content">awesome_snackbar_content</a></li>
-        <li>Technical writer at <a href="https://mhmzdev.medium.com/">Medium</a></li>
-        <li>First Live app on Play Store: <a href="https://github.com/mhmzdev/The_Holy_Quran_App">Holy Qur'an App</a></li>
-        <li>Former Google DSC Lead: <a href="https://gdg.community.dev/gdg-on-campus-comsats-university-islamabad-pakistan/">COMSATS Islamabad</a></li>
-        <li>F1 – Loves to watch cars go <b>vhroom! vhroom!</b></li>
-        <li>Mobile photography 📱</li>
-        <li>Books!! 📚</li>
-        <li>"Ah! There was a sport!"</li>
-        <li>Portfolio 👉 <a href="https://mhmz.dev">mhmz.dev</a></li>
-        <li>Resume 👉 <a href="https://mhmz.dev/resume">View here</a></li>
-      </ul>
+
+- Leading [Flutter Islamabad](http://facebook.com/FlutterIslamabadPakistan)
+- Maintainer of Dart package [awesome_snackbar_content](https://pub.dev/packages/awesome_snackbar_content)
+- Technical writer at [Medium](https://mhmzdev.medium.com/)
+- First Live app on Play Store: [Holy Qur'an App](https://github.com/mhmzdev/The_Holy_Quran_App)
+- Former Google DSC Lead: [COMSATS Islamabad](https://gdg.community.dev/gdg-on-campus-comsats-university-islamabad-pakistan/)
+- F1 – Loves to watch cars go **vhroom! vhroom!**
+- Mobile photography 📱
+- Books!! 📚
+- _"Ah! There was a sport!"_
+- Portfolio 👉 [mhmz.dev](https://mhmz.dev)
+- Resume 👉 [View here](https://mhmz.dev/resume)
+
     </td>
 
     <!-- RIGHT COLUMN -->
-    <td width="40%" align="center" valign="middle">
-      <img 
-        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJha3IydW84Y2g4MWJtdWpqNGt1NDFpbDRzNzN3cTN4ZjNneXl6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" 
-        width="300" 
-        alt="Developer GIF"
-      />
+    <td width="40%" align="center">
+
+<img
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  width="280"
+  alt="Developer GIF"
+/>
+
     </td>
   </tr>
 </table>
