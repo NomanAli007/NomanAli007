@@ -15,7 +15,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <!-- LEFT COLUMN -->
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
 
 - First Live app on Play Store: [One-Stop-Tv](https://play.google.com/store/apps/details?id=com.one.stop.tv)
 - Carbee App Live app on Play Store: [CarBee](https://play.google.com/store/apps/details?id=com.carbee.user.prod)
@@ -32,11 +32,11 @@
     </td>
 
     <!-- RIGHT COLUMN -->
-    <td width="45%" align="center" valign="middle">
+    <td width="40%" align="center" valign="middle">
 
 <img
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  width="480"
+  width="420"
   alt="Developer GIF"
 />
 
