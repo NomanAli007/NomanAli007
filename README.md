@@ -7,14 +7,11 @@
     alt="Typing SVG" 
   />
 </p>
-🤝 Let’s Connect
+<p align="center">🤝 Let’s Connect</p>
+
 <h1 align="center"> <a href="#"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </h1>
----
 
 <h2>👨‍💻 Talking about my personal stuff:</h2>
-
-<br />
-
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <!-- LEFT COLUMN -->
