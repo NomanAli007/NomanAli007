@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Hamza</h1>
+<h1 align="center">Hi 👋, I'm Noman Ali</h1>
 <h3 align="center">A Student, Developer & Writer from Pakistan</h3>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=520&lines=A+Student%2C+Developer+%26+Writer;Open+Source+Contributor+from+Pakistan+%F0%9F%92%9A" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=520&lines=A+Student%2C+Developer+%20+Writer;Open+Source+Contributor+from+Pakistan+%F0%9F%92%9A" 
     alt="Typing SVG" 
   />
 </p>
@@ -19,10 +19,8 @@
     <!-- LEFT COLUMN -->
     <td width="55%" valign="top">
 
-- Leading [Flutter Islamabad](http://facebook.com/FlutterIslamabadPakistan)
-- Maintainer of Dart package [awesome_snackbar_content](https://pub.dev/packages/awesome_snackbar_content)
-- Technical writer at [Medium](https://mhmzdev.medium.com/)
-- First Live app on Play Store: [Holy Qur'an App](https://github.com/mhmzdev/The_Holy_Quran_App)
+- Member of [Flutter Islamabad](http://facebook.com/FlutterIslamabadPakistan)
+- First Live app on Play Store: [One-Stop-Tv](https://play.google.com/store/apps/details?id=com.one.stop.tv)
 - Former Google DSC Lead: [COMSATS Islamabad](https://gdg.community.dev/gdg-on-campus-comsats-university-islamabad-pakistan/)
 - F1 – Loves to watch cars go **vhroom! vhroom!**
 - Mobile photography 📱
