@@ -14,7 +14,7 @@
 
 <br />
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <!-- LEFT COLUMN -->
     <td width="60%" valign="top">
@@ -34,15 +34,15 @@
     </td>
 
     <!-- RIGHT COLUMN -->
-    <td width="70%" align="center">
+    <td width="40%" align="center" valign="middle">
 
 <img
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  width="280"
+  width="360"
   alt="Developer GIF"
 />
 
-  
+    </td>
   </tr>
 </table>
 
@@ -74,12 +74,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Databases & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats
@@ -91,22 +85,6 @@
 
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=mhmzdev&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/mhmzdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/mhmzdev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://medium.com/@mhmzdev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://pub.dev/publishers/mhmzdev.dev/packages"><img src="https://img.shields.io/badge/Pub.dev-02569B?style=for-the-badge&logo=dart&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <b>Visitor Count</b><br>
-  <img src="https://komarev.com/ghpvc/?username=mhmzdev&style=flat-square&color=blue"/>
 </p>
 
 ---
