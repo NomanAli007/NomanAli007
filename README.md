@@ -5,27 +5,35 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=A+Student%2C+Developer+%26+Writer;Open+Source+Contributor+from+Pakistan+%F0%9F%92%9A" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJha3IydW84Y2g4MWJtdWpqNGt1NDFpbDRzNzN3cTN4ZjNneXl6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer GIF" />
-</p>
-
 ---
 
 ### 👨‍💻 Talking about my personal stuff:
 
-<ul dir="auto">
-<li>👉 Leading <a href="http://facebook.com/FlutterIslamabadPakistan" rel="nofollow">Flutter Islamabad</a></li>
-<li>📦 Maintainer of dart package <a href="https://pub.dev/packages/awesome_snackbar_content" rel="nofollow">awesome_snackbar_content</a></li>
-<li>✍ Technical writer at <a href="https://mhmzdev.medium.com/" rel="nofollow">Medium</a></li>
-<li>📱 First Live app on Play Store <a href="https://github.com/mhmzdev/The_Holy_Quran_App">Holy Qur'an App</a></li>
-<li>🙋‍♂️ Former Google DSC Lead <a href="https://gdg.community.dev/gdg-on-campus-comsats-university-islamabad-pakistan/" rel="nofollow">COMSATS Islamabad</a></li>
-<li>🏎️ F1 - Loves to watch cars go vhroom! vhroom!</li>
-<li>📸 Mobile photography</li>
-<li>📚 Books!!</li>
-<li>⚽️ "Ah! There was a sport!"</li>
-<li>👀 Wanna see, what I do? <a href="https://mhmz.dev" rel="nofollow">Portfolio</a></li>
-<li>📜 Take a look at my <a href="https://mhmz.dev/resume" rel="nofollow">Resume</a></li>
-</ul>
+<table>
+  <tr>
+    <!-- Left Column: Personal Details -->
+    <td width="60%" valign="top">
+      <ul dir="auto">
+        <li>👉 Leading <a href="http://facebook.com/FlutterIslamabadPakistan" rel="nofollow">Flutter Islamabad</a></li>
+        <li>📦 Maintainer of dart package <a href="https://pub.dev/packages/awesome_snackbar_content" rel="nofollow">awesome_snackbar_content</a></li>
+        <li>✍ Technical writer at <a href="https://mhmzdev.medium.com/" rel="nofollow">Medium</a></li>
+        <li>📱 First Live app on Play Store <a href="https://github.com/mhmzdev/The_Holy_Quran_App">Holy Qur'an App</a></li>
+        <li>🙋‍♂️ Former Google DSC Lead <a href="https://gdg.community.dev/gdg-on-campus-comsats-university-islamabad-pakistan/" rel="nofollow">COMSATS Islamabad</a></li>
+        <li>🏎️ F1 - Loves to watch cars go vhroom! vhroom!</li>
+        <li>📸 Mobile photography</li>
+        <li>📚 Books!!</li>
+        <li>⚽️ "Ah! There was a sport!"</li>
+        <li>👀 Wanna see, what I do? <a href="https://mhmz.dev" rel="nofollow">Portfolio</a></li>
+        <li>📜 Take a look at my <a href="https://mhmz.dev/resume" rel="nofollow">Resume</a></li>
+      </ul>
+    </td>
+    
+    <!-- Right Column: GIF -->
+    <td width="40%" valign="top" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJha3IydW84Y2g4MWJtdWpqNGt1NDFpbDRzNzN3cTN4ZjNneXl6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
