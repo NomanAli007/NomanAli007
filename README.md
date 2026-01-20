@@ -66,5 +66,5 @@
 
 
 <p align="center">
-  <i>⚡ Fun fact: The “Hello, World!” program originated in the 1970s at Bell Labs.</i>
+  <i>⚡ Fun fact: A single Flutter codebase can compile to native apps for 6+ platforms—mobile (Android + iOS), web, desktop, and even embedded devices!.</i>
 </p>
