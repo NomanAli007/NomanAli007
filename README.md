@@ -21,8 +21,8 @@
 
 - Member of [Flutter Islamabad](http://facebook.com/FlutterIslamabadPakistan)
 - First Live app on Play Store: [One-Stop-Tv](https://play.google.com/store/apps/details?id=com.one.stop.tv)
-- Former Google DSC Lead: [COMSATS Islamabad](https://gdg.community.dev/gdg-on-campus-comsats-university-islamabad-pakistan/)
-- Snooker – Loves to watch and play 
+- Former Google DSC member: [FUUAST Islamabad](https://www.facebook.com/gdscfuuast/)
+- Snooker – Loves to watch and play
 - Mobile photography 📱
 - Books!! 📚
 - _"Ah! There was a sport!"_
