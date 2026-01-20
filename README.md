@@ -19,15 +19,17 @@
     <!-- LEFT COLUMN -->
     <td width="55%" valign="top">
 
-- Member of [Flutter Islamabad](http://facebook.com/FlutterIslamabadPakistan)
 - First Live app on Play Store: [One-Stop-Tv](https://play.google.com/store/apps/details?id=com.one.stop.tv)
+- Carbee App Live app on Play Store: [CarBee](https://play.google.com/store/apps/details?id=com.carbee.user.prod)
+- Carbee App Live app on App Store: [CarBee](https://apps.apple.com/au/app/carbee-au/id6474963233)
+- Member of [Flutter Islamabad](https://www.facebook.com/groups/FlutterIslamabad)
 - Former Google DSC member: [FUUAST Islamabad](https://www.facebook.com/gdscfuuast/)
 - Snooker – Loves to watch and play
 - Mobile photography 📱
 - Books!! 📚
 - _"Ah! There was a sport!"_
 - Portfolio 
-- Resume 👉 [View here](https://mhmz.dev/resume)
+- Resume 👉 [View here](https://drive.google.com/drive/folders/1d_71dpiqBb4QvF6FszikBQ75eu-ziEpR?usp=drive_link)
 
     </td>
 
@@ -46,31 +48,8 @@
 
 ---
 
-## ✍ Medium Blog Posts
-
-<ul>
-  <li>📄 <a href="https://medium.com/@mhmzdev/the-art-of-managing-single-code-base-flutter-part-02">The Art of Managing Single Code Base — Flutter | Part #02</a></li>
-  <li>📄 <a href="https://medium.com/@mhmzdev/the-art-of-managing-single-code-base-flutter-part-01">The Art of Managing Single Code Base — Flutter | Part #01</a></li>
-  <li>📄 <a href="https://medium.com/@mhmzdev/flutter-web-the-good-the-bad-and-the-ugly">Flutter Web: The good, the bad and the ugly</a></li>
-  <li>📄 <a href="https://medium.com/@mhmzdev/darttern-matching-when-if-else-got-a-glow-up">Darttern Matching: When if-else Got a Glow-Up ✨</a></li>
-  <li>📄 <a href="https://medium.com/@mhmzdev/draftwing-an-agentic-app-under-48-hours">DraftWing: An agentic app under 48 hours!</a></li>
-</ul>
-
----
-
 ## 🛠️ Tech Stack & Tools
-
-### Programming Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frameworks & Libraries
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<p align="center"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white" /> </p>
 
 ---
 
