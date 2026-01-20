@@ -58,9 +58,6 @@
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
 </h1>
 
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
