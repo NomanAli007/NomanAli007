@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noman Ali</h1>
-<h3 align="center">A Student, Developer & Writer from Pakistan</h3>
+<h3 align="center">Software engineer with over three years of experience</h3>
 
 <p align="center">
   <img 
