@@ -28,7 +28,9 @@
       </ul>
     </td>
     
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJha3IydW84Y2g4MWJtdWpqNGt1NDFpbDRzNzN3cTN4ZjNneXl6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer GIF" />
+    <!-- Right Column: GIF -->
+    <td width="40%" valign="top" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJha3IydW84Y2g4MWJtdWpqNGt1NDFpbDRzNzN3cTN4ZjNneXl6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer GIF" />
     </td>
   </tr>
 </table>
