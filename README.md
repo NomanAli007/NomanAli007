@@ -5,6 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=A+Student%2C+Developer+%26+Writer;Open+Source+Contributor+from+Pakistan+%F0%9F%92%9A" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJha3IydW84Y2g4MWJtdWpqNGt1NDFpbDRzNzN3cTN4ZjNneXl6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer GIF" />
+</p>
 ---
 
 ### 👨‍💻 About Me
