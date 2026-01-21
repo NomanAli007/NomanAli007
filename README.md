@@ -27,7 +27,7 @@
 - Books!! 📚
 - _"Ah! There was a sport!"_
 - Portfolio 
-- Resume 👉 [View here](https://drive.google.com/drive/folders/1d_71dpiqBb4QvF6FszikBQ75eu-ziEpR?usp=drive_link)
+- Resume 👉 [View here](https://drive.google.com/drive/folders/1d_71dpiqBb4QvF6FszikBQ75eu-ziEpR)
 
     </td>
 
