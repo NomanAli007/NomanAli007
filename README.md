@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Noman Ali</h1>
+<h1 align="center">Hi there👋, I'm Noman Ali</h1>
 <h3 align="center">Software engineer with over three years of experience</h3>
 
 <p align="center">
@@ -22,7 +22,7 @@
 - Carbee App Live app on App Store: [CarBee](https://apps.apple.com/au/app/carbee-au/id6474963233)
 - Member of [Flutter Islamabad](https://www.facebook.com/groups/FlutterIslamabad)
 - Former Google DSC member: [FUUAST Islamabad](https://www.facebook.com/gdscfuuast/)
-- Snooker – Loves to watch and play
+- Snooker – Love to watch and play
 - Mobile photography 📱
 - Books!! 📚
 - _"Ah! There was a sport!"_
