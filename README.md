@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Noman Ali</h1>
-<h3 align="center">Software engineer with over three years of experience</h3>
+<h3 align="center">Flutter Developer with over three years of experience</h3>
 
 <p align="center">
   <img 
@@ -9,7 +9,7 @@
 </p>
 <p align="center">🤝 Let’s Connect</p>
 
-<h1 align="center"> <a href="https://www.instagram.com/nomi_ali007/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.facebook.com/nomi.ali.681769"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </h1>
+<h1 align="center"> <a href="https://www.instagram.com/nomi_ali007/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.facebook.com/nomi.ali.681769"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> <a href="https://nomanali007.github.io/MyPortfolio"> <img src="https://img.shields.io/badge/Portfolio-22C55E?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> </h1>
 
 <h2>👨‍💻 Talking about my personal stuff:</h2>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -27,7 +27,7 @@
 - Books!! 📚
 - _"Ah! There was a sport!"_
 - Portfolio 
-- Resume 👉 [View here](https://drive.google.com/file/d/1doUI9VD-ufQg8LRwwg8wt8I6ImVEwiwB/view?usp=sharing)
+- Resume 👉 [View here](https://drive.google.com/file/d/1mL3zLPxBg7fd3VkRqGyzfpXZlSI6wfyw/view?usp=sharing)
 
     </td>
 
